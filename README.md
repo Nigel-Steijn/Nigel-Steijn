@@ -24,7 +24,7 @@ I’m a Java Engineer at heart with a deep intrigue for digital technology. Whet
   - JetBrains IDE
   - VSCode
   - Jira & Confluence
-  - Gitlab & GitLab CICD (most of my DevOps experience)
+  - GitLab & GitLab CICD (most of my DevOps experience)
   - Hetzner Cloud CLI (And Hetzner in general)
 
 - **Roles:** 
