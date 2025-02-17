@@ -6,7 +6,7 @@ Welcome to my high-level introduction! This is not my resumé, this document aim
 
 ### About Me
 
-I’m a Java and Rust Engineer at heart with a deep intrigue for digital technology. Whether it's low-level languages or high-level optimizations, I love crafting code that improves people’s lives. My passion lies in creating efficient and effective software solutions.
+I’m a Rust Engineer at heart with a deep intrigue for digital technology. Whether it's low-level languages or high-level optimizations, I love creating code that improves people’s lives. My passion lies in creating efficient and effective software solutions.
 
 ### Skills and Expertise
 
@@ -15,7 +15,7 @@ I’m a Java and Rust Engineer at heart with a deep intrigue for digital technol
   - C++
   - PHP
   - JavaScript/TypeScript
-  - Rust
+  - Rust (Main)
  
 - **Favourites**
   - F# (favourite syntax)
@@ -38,7 +38,7 @@ I’m a Java and Rust Engineer at heart with a deep intrigue for digital technol
 
 - **AI:**
   - GPT-3/4 Assistants
-    - Helper Assistants tailored to specific knowledge areas.
+    - Helper Assistants trained for specific knowledge areas.
 
 ### Experience
 
