@@ -6,13 +6,12 @@ Welcome to my high-level introduction! This is not my resumé, this document aim
 
 ### About Me
 
-I’m a Rust and C++ Engineer at heart with a deep intrigue for digital technology. Whether it's low-level languages or high-level optimizations, I love creating code that improves people’s lives. My passion lies in creating efficient and effective software solutions.
+I’m a Rust Engineer at heart with a deep intrigue for digital technology. Whether it's low-level languages or high-level optimizations, I love creating code that improves people’s lives. My passion lies in creating efficient and effective software solutions.
 
 ### Skills and Expertise
 
 - **Languages:** 
   - Rust
-  - C++
   - JavaScript/TypeScript
  
 - **Favourites**
