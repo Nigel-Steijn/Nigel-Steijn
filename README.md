@@ -26,7 +26,7 @@ I use the following tools:
 - Hetzner Cloud (Server Hosting)
 - LM Studio (local code review before merging code)
 
-### Experience
+## Experience
 
 I started programming at the age of 12 in 2012 and began my professional journey in 2018. Over the years, 
 I've primarily worked on closed-source projects, focusing on office automation, logistics and financial systems. 
@@ -34,7 +34,7 @@ In the early days, I also delved into hardware programming, which was a fascinat
 
 [You can find my website here](https://steijnium.com/).
 
-### Hobbies/Interests
+## Hobbies/Interests
 - Grand Strategy Games
 - Remaking dependencies (to learn and improve)
 - D&D & Cartography
