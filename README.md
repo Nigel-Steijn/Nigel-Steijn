@@ -1,42 +1,30 @@
-# Hello, I'm Nigel \o
+# Welcome to my profile!
 
-Welcome to my high-level introduction! This is not my resumé, this document aims to give you an overview of what I work with on a weekly basis and what my knowledge areas are.
+My name is Nigel, I am a software engineer and started playing with code in 2012. In 2018 at 18 years old I started my professional carreer in programming!
 
-## Software Engineer and Operator
+I am mostly a Rust engineer with roots in Java and C++. 
 
-### About Me
+## Activity
 
-I’m a Rust Engineer at heart with a deep intrigue for digital technology. Whether it's low-level languages or high-level optimizations, I love creating code that improves people’s lives. My passion lies in creating efficient and effective software solutions.
+I work on creating low level library code and web platforms in mostly Closed Source Software, and work on a company account for my day job (meaning that activity is not shared here).
 
-### Skills and Expertise
+## My Job
 
-- **Languages:** 
-  - Rust
-  - JavaScript/TypeScript
- 
-- **Favourites**
-  - F# (favourite syntax)
-  - Lua (favourite scripting language)
-  - C++ (favourite hobby project language)
-  - Java (favourite professional language)
-  - Rust (favourite development experience)
+In my day job I work in DevOps Engineering and varied Software Engineering is languages such as: Rustlang, Groovy, Java, Python.
 
-- **Tooling**
-  - JetBrains IDE
-  - YouTrack
-  - GitLab, GitHub & GitLab CI/CD (most of my DevOps experience)
-  - Hetzner Cloud CLI (And Hetzner in general)
+I work on containerizing software and optimizing software to run in Kubernetes clusters.
 
-- **Roles:** 
-  - Programming
-  - Server Operation / DevOps
-  - Security (vulnerability protection & penetration testing)
+## Tools
 
-- **AI:**
-  - Transformer-based Assistants
-    - Helper Assistants trained for specific knowledge areas.
-  - Research
-    - Efficiency research to collaboratively find ways to reduce the negative environmental effects of AI.
+I use the following tools:
+
+- CLion (Editor of choice with Rust extension)
+- YouTrack (Issue and time tracking)
+- GitHub (Personal projects / code storage)
+- GitLab (Professional projects)
+- GitHub Actions and GitLab CI/CD
+- Hetzner Cloud (Server Hosting)
+- LM Studio (local code review before merging code)
 
 ### Experience
 
@@ -47,6 +35,6 @@ In the early days, I also delved into hardware programming, which was a fascinat
 [You can find my website here](https://steijnium.com/).
 
 ### Hobbies/Interests
-- Game Development (learning projects)
 - Grand Strategy Games
+- Remaking dependencies (to learn and improve)
 - D&D & Cartography
