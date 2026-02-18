@@ -35,7 +35,7 @@ In the early days, I also delved into hardware programming, which was a fascinat
 
 ## LLM
 
-I have opted-out on LLM supported functionalities by default, as I found the architectural decisions made by modern agents and large-langugage models are not great. Changes look great on a per-diff basis, but over the span of an application's life-cycle it hurts the quality to not understand the code thouroughly. I can use LLM's to enhance my workflows, but prefer to program by memory and search for documentation using search-enabled LLMs.
+I have opted-out on LLM supported functionalities by default, as I found the architectural decisions made by modern agents and large-langugage models are not great. Changes look great on a per-diff basis, but over the span of an application's life-cycle it hurts the quality to not understand the code thouroughly. I can use LLM's to enhance my workflows, but prefer to program by memory and search for documentation using search-enabled LLM's.
 
 I prefer to not have paths or approaches suggested to me before I thought critically about what I truly need or would benefit the platform most.
 
