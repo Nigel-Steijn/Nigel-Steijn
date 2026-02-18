@@ -10,7 +10,7 @@ I work on creating low level library code and web platforms in mostly Closed Sou
 
 ## My Job
 
-In my day job I work in DevOps Engineering and varied Software Engineering is languages such as: Rustlang, Groovy, Java, Python.
+In my day job I work in DevOps Engineering and varied Software Engineering is languages such as: Rustlang (main), Groovy, Java, Python.
 
 I work on containerizing software and optimizing software to run in Kubernetes clusters.
 
@@ -18,13 +18,12 @@ I work on containerizing software and optimizing software to run in Kubernetes c
 
 I use the following tools:
 
-- CLion (Editor of choice with Rust extension)
+- RustRover (Editor of choice)
 - YouTrack (Issue and time tracking)
 - GitHub (Personal projects / code storage)
 - GitLab (Professional projects)
 - GitHub Actions and GitLab CI/CD
 - Hetzner Cloud (Server Hosting)
-- LM Studio (local code review before merging code)
 
 ## Experience
 
@@ -33,6 +32,12 @@ I've primarily worked on closed-source projects, focusing on office automation, 
 In the early days, I also delved into hardware programming, which was a fascinating experience and I'd love to improve myself further with.
 
 [You can find my website here](https://steijnium.com/).
+
+## LLM
+
+I have opted-out on LLM supported functionalities by default, as I found the architectural decisions made by modern agents and large-langugage models are not great. Changes look great on a per-diff basis, but over the span of an application's life-cycle it hurts the quality to not understand the code thouroughly. I can use LLM's to enhance my workflows, but prefer to program by memory and search for documentation using search-enabled LLMs.
+
+I prefer to not have paths or approaches suggested to me before I thought critically about what I truly need or would benefit the platform most.
 
 ## Hobbies/Interests
 - Grand Strategy Games
